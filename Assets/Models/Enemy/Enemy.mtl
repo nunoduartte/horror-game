@@ -1,0 +1,38 @@
+# Exported from Fuse 1.3.0
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Enemy_Top_diffuse.png
+map_Ks Enemy_Top_specular.png
+bump Enemy_Top_normal.png
+map_Ns Enemy_Top_gloss.png
+
+newmtl Hair
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Enemy_Hair_diffuse.png
+map_Ks Enemy_Hair_specular.png
+bump Enemy_Hair_normal.png
+map_Ns Enemy_Hair_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Enemy_Body_diffuse.png
+map_Ks Enemy_Body_specular.png
+bump Enemy_Body_normal.png
+map_Ns Enemy_Body_gloss.png
+

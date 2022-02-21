@@ -1,0 +1,62 @@
+# Exported from Fuse 1.3.0
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd HomemBranco_Bottom_diffuse.png
+map_Ks HomemBranco_Bottom_specular.png
+bump HomemBranco_Bottom_normal.png
+map_Ns HomemBranco_Bottom_gloss.png
+
+newmtl Hair
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd HomemBranco_Hair_diffuse.png
+map_Ks HomemBranco_Hair_specular.png
+bump HomemBranco_Hair_normal.png
+map_Ns HomemBranco_Hair_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd HomemBranco_Shoes_diffuse.png
+map_Ks HomemBranco_Shoes_specular.png
+bump HomemBranco_Shoes_normal.png
+map_Ns HomemBranco_Shoes_gloss.png
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd HomemBranco_Top_diffuse.png
+map_Ks HomemBranco_Top_specular.png
+bump HomemBranco_Top_normal.png
+map_Ns HomemBranco_Top_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd HomemBranco_Body_diffuse.png
+map_Ks HomemBranco_Body_specular.png
+bump HomemBranco_Body_normal.png
+map_Ns HomemBranco_Body_gloss.png
+
